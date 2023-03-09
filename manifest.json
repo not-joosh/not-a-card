@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "not joosh",
+    "description": "MyLinks Links | github.com/not-joosh",
+    "author": "not-joosh",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
